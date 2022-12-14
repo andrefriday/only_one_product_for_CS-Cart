@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::only_one_product"
+msgid "Only one product"
+msgstr "Только один продукт"
+
+msgctxt "Addons::description::only_one_product"
+msgid "User can buy one product only once"
+msgstr "Пользователь может купить один продукт только один раз"
+
+msgctxt "Languages::only_one_product"
+msgid "Only one product"
+msgstr "Только один продукт"
+
+msgctxt "Languages::allow_to_buy_this_product_only_once"
+msgid "Allow to buy this product only once"
+msgstr "Разрешить покупать этот товар только один раз"
+
+msgctxt "Languages::you_have_already_bought_this_product"
+msgid "You_have_already_bought_this_product"
+msgstr "Вы уже купили этот товар"

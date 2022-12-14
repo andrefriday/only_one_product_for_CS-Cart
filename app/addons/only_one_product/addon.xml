@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>only_one_product</id>
+    <version>1.0</version>
+    <priority>3000</priority>
+    <position>10</position>
+    <status>active</status>
+    <default_language>en</default_language>
+    <queries>
+        <item>ALTER TABLE `?:products` ADD `only_one_product` char(1) NOT NULL default 'N'</item>
+        <item for="uninstall">ALTER TABLE  `?:products` DROP `only_one_product`</item>
+    </queries>
+</addon>
